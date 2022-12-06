@@ -6,7 +6,7 @@
 //  Copyright © 2020 Shichimitoucarashi. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 public struct OutputAction {
     public var index: Int
